@@ -12,7 +12,7 @@ This Jupyter Notebook performs the following operations:
 **The 'r' signifies a string literal. Use for paths.**
 
 - v1.0: Read csv File into pandas, Create Array of csv column headers, assign header array of channel descriptions and units.
-- v1.1: clean up comments andd help 5-14-2020
+- v1.1: clean up comments and add help 5-14-2020
 
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
