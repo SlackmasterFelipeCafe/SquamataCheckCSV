@@ -1,2 +1,26 @@
-# SquamataCheckCSV
-Read a csv file into pandas, create array of csv column headers and print to screen, calculate min max values of all channels and print to screen..
+# SquamataCheckCSV - Jupyter notebook for reading in CSV files and checking Min Max
+
+### Version 1.1
+
+This Jupyter Notebook performs the following operations:
+- Loads a CSV file.
+- Calculates Min and Max for each channel and prints output.
+
+
+### To execute a function/command select a cell and Hold-Shift + Press-Enter
+
+**The 'r' signifies a string literal. Use for paths.**
+
+Metadata wizard:  Advanced, Open In a jupyter Notebook?
+Metadata Wizard 2.o from ScienceBase
+
+- v1.0: Read csv File into pandas, Create Array of csv column headers, assign header array of channel descriptions and units.
+- v1.1: clean up comments andd help 5-14-2020
+
+**Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
+
+**SquamataCheckCSV** Jupyter notebook for reading in CSV files and checking Min Max.
+
+*"Birthing the tail that feeds it..."* 
+
+![Squamata - birthing the tale that feeds it](https://github.com/pbrown-usgs/SquamataAssemblyAMT/blob/master/SquamataLemniscateOuroboros.png)
