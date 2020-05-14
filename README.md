@@ -16,7 +16,7 @@ This Jupyter Notebook performs the following operations:
 
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
-**SquamataCheckCSV** Jupyter notebook for reading in CSV files and checking Min Max.
+**SquamataCheckCSV** is a Jupyter notebook for reading in CSV files and checking Min Max values.
 
 *"Birthing the tail that feeds it..."* 
 
