@@ -11,9 +11,6 @@ This Jupyter Notebook performs the following operations:
 
 **The 'r' signifies a string literal. Use for paths.**
 
-Metadata wizard:  Advanced, Open In a jupyter Notebook?
-Metadata Wizard 2.o from ScienceBase
-
 - v1.0: Read csv File into pandas, Create Array of csv column headers, assign header array of channel descriptions and units.
 - v1.1: clean up comments andd help 5-14-2020
 
